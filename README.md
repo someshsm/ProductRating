@@ -24,11 +24,13 @@ This project uses:
     ´poetry show´
 
 ### Running the Application:
-Run the project with command: "product-rating"
+Run the project with command:
+
     `poetry run product-rating`
 
 #### Running Test:
 To run tests:
+
     `poetry run pytest`
 
 ### Database Schema:
